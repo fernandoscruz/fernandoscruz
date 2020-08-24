@@ -13,10 +13,7 @@ Dedicando meu tempo para estudar IaC, Google Cloud, Kubernet, Docker, Terraform,
 Certified Integrator Secure Cloud Services, Cloud Computing, Cobit 4.1, ISO 27001, ITIL V3 e ISO 20000.
 Conhecimentos em administração de redes de computadores, Sistemas operacionais especialmente o Linux, Virtualização especialmente Hyper V, Firewalls, Exchange Online, File Server, Serviços de VPN, Servidor antivírus e backup.
 
-
-
-
-[![fernandoscruz GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandoscruz&show_icons=true)](https://github.com/fernandoscruz)
+<h3>  </h3>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fernandoscruz)](https://github.com/fernandoscruz/github-readme-stats)
 
 <h3> - 📫 How to reach me: ... </h3>
