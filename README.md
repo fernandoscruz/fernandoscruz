@@ -14,6 +14,8 @@ Certified Integrator Secure Cloud Services, Cloud Computing, Cobit 4.1, ISO 2700
 Conhecimentos em administração de redes de computadores, Sistemas operacionais especialmente o Linux, Virtualização especialmente Hyper V, Firewalls, Exchange Online, File Server, Serviços de VPN, Servidor antivírus e backup.
 
 
+
+
 [![fernandoscruz GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandoscruz&show_icons=true)](https://github.com/fernandoscruz)
 
 
