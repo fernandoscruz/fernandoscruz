@@ -17,7 +17,7 @@ Conhecimentos em administração de redes de computadores, Sistemas operacionais
 
 
 [![fernandoscruz GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandoscruz&show_icons=true)](https://github.com/fernandoscruz)
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fernandoscruz)](https://github.com/fernandoscruz/github-readme-stats)
 
 <h3> - 📫 How to reach me: ... </h3>
 
